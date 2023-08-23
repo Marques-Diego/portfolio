@@ -44,12 +44,12 @@ html {
     transition: all 0.3s ease;
   }
   
-  .redes-sociais a i {
-    line-height: 40px;
-  }
-  
   .redes-sociais a:hover {
     color: var(--cor-primaria);
+  }
+  
+  .redes-sociais a i {
+    line-height: 40px;
   }
   
   .outer-shadow {
@@ -81,7 +81,7 @@ html {
     font-size: var(--fonte-grande);
     padding: 10px 20px;
     border-radius: 20px;
-    transition: all .3s ease;
+    transition: all 0.3s ease;
     background-color: var(--cor-primaria);
   }
   
